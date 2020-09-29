@@ -7,6 +7,10 @@
 
 A beautiful logo for the Dreamvo project, made by [Quentin Lenglin](https://github.com/unneqit).
 
+## Brand guidelines
+
+See [guidelines.pdf](./guidelines.pdf).
+
 ## Fonts
 
 - [Nunito](https://fonts.google.com/specimen/Nunito)
@@ -17,3 +21,17 @@ A beautiful logo for the Dreamvo project, made by [Quentin Lenglin](https://gith
 - Light blue `#66f`
 - Dark blue `#34495e`
 - White `#ffffff`
+
+### Backgrounds
+
+- Light `#ffffff`
+- Dark `#212121`
+- Dark blue `#2e3341`
+
+----
+
+<p align="center">
+  <img src="https://i.imgur.com/mFWcYln.png" width="50%">
+  <img src="https://i.imgur.com/4jkfO6y.png" width="50%">
+  <img src="https://i.imgur.com/AiidYmd.png" width="50%">
+</p>
