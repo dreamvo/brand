@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./full/full-color/full-color-secondary_dark.svg" width="50%">
+  <img src="./dreamvo/full/full-color/full-color-secondary_dark.svg" width="50%">
 </p>
 
 # Brand
@@ -32,6 +32,6 @@ See [guidelines.pdf](./guidelines.pdf).
 <p align="center">
   <img src="https://i.imgur.com/mFWcYln.png" width="50%">
   <img src="https://i.imgur.com/4jkfO6y.png" width="50%">
-  <img src="./full/full-color/full-color-secondary_dark.svg" width="50%">
-  <img src="./full/full-color/full-color-main_blue.svg" width="50%">
+  <img src="./dreamvo/full/full-color/full-color-secondary_dark.svg" width="50%">
+  <img src="./dreamvo/full/full-color/full-color-main_blue.svg" width="50%">
 </p>
