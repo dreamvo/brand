@@ -8,7 +8,7 @@ A beautiful logo for Dreamvo, made by [Quentin Lenglin](https://github.com/unneq
 
 ## Brand guidelines
 
-See [guidelines.pdf](./guidelines.pdf).
+See [guidelines.pdf](./dreamvo/guidelines.pdf) (FR).
 
 ## Fonts
 
